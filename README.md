@@ -1,4 +1,3 @@
-<h1 align="center">👋 Welcome to R A MOHAN TIWARI'S PROFILE</h1>
 
 ## 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/https://discord.gg/72n6NAwK) [![Facebook - R.A. Mon](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white&label=R.A.%20Mon)](https://facebook.com/profile.php?id=100090829328516) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/r.a.mon_)
