@@ -34,7 +34,7 @@
 
 ---
 
-![snake gif](https://github.com/Ramoniswack/Ramoniswack/blob/output/github-contribution-grid-snake.svg)
+![snake gif](https://github.com/Ramoniswack/Ramoniswack/blob/output/github-snake-dark.svg)
 ---
 
 [![](https://visitcount.itsvg.in/api?id=Ramoniswack&icon=0&color=0)](https://visitcount.itsvg.in)
