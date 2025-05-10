@@ -34,8 +34,7 @@
 
 ---
 
-![Snake gif](https://raw.githubusercontent.com/Ramoniswack/Ramoniswack/output/ocean.gif)
-
+![snake gif](https://github.com/Ramoniswack/Ramoniswack/blob/output/github-contribution-grid-snake.gif)
 ---
 
 [![](https://visitcount.itsvg.in/api?id=Ramoniswack&icon=0&color=0)](https://visitcount.itsvg.in)
