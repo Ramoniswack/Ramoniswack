@@ -33,7 +33,8 @@
 ![](https://github-contributor-stats.vercel.app/api?username=Ramoniswack&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 ---
-
+![snake gif](https://github.com/Ramoniswack/Ramoniswack/blob/output/github-contribution-grid-snake.gif)
+---
 
 [![](https://visitcount.itsvg.in/api?id=Ramoniswack&icon=0&color=0)](https://visitcount.itsvg.in)
 
