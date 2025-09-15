@@ -93,6 +93,16 @@
 
 ---
 
+## Snake Animation
+
+<div align="center">
+  
+  ![Snake animation](https://github.com/Ramoniswack/Ramoniswack/blob/output/github-snake-dark.svg)
+  
+</div>
+
+---
+
 <div align="center">
   
   ![Profile Views](https://komarev.com/ghpvc/?username=Ramoniswack&color=58A6FF&style=for-the-badge&label=Profile+Views)
