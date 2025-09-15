@@ -48,38 +48,22 @@
 
 <div align="center">
   
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Ramoniswack&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9&border_radius=10"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Ramoniswack&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9&border_radius=10&cache_seconds=86400"/>
   
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ramoniswack&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&border_radius=10"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ramoniswack&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&border_radius=10&cache_seconds=86400"/>
   
 </div>
 
 <div align="center">
   
-  ![GitHub Streak](https://nirzak-streak-stats.vercel.app/?user=Ramoniswack&theme=tokyonight&hide_border=true&background=0D1117&stroke=58A6FF&ring=58A6FF&fire=FF6B6B&currStreakNum=C9D1D9&sideNums=C9D1D9&currStreakLabel=58A6FF&sideLabels=58A6FF&dates=8B949E&border_radius=10)
+  ![GitHub Streak](https://streak-stats.demolab.com/?user=Ramoniswack&theme=tokyonight&hide_border=true&background=0D1117&stroke=58A6FF&ring=58A6FF&fire=FF6B6B&currStreakNum=C9D1D9&sideNums=C9D1D9&currStreakLabel=58A6FF&sideLabels=58A6FF&dates=8B949E&border_radius=10)
   
 </div>
 
 ---
 
-## Pinned Repositories
-
-<div align="center">
-  
-  [![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=Ramoniswack&repo=your-repo-name&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&icon_color=58A6FF&border_radius=10)](https://github.com/Ramoniswack/your-repo-name)
-  [![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=Ramoniswack&repo=another-repo-name&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&icon_color=58A6FF&border_radius=10)](https://github.com/Ramoniswack/another-repo-name)
-  
-</div>
-
----
-
-## Achievement Gallery
-
-<div align="center">
-  
-  ![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=Ramoniswack&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&column=4&title=Stars,Followers,Commits,Repositories)
-  
-</div>
+## GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=Ramoniswack&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
 ---
 
@@ -88,22 +72,14 @@
 <div align="center">
 
 ### Contribution Heatmap
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Ramoniswack&theme=tokyo-night&bg_color=0D1117&color=58A6FF&line=58A6FF&point=FF6B6B&area=true&hide_border=true&radius=10)
-
-### Weekly Development Activity
-![GitHub Weekly Stats](https://github-readme-stats.vercel.app/api/wakatime?username=Ramoniswack&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&border_radius=10)
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Ramoniswack&theme=tokyo-night&bg_color=0D1117&color=58A6FF&line=58A6FF&point=FF6B6B&area=true&hide_border=true&radius=10&custom_title=Contribution%20Activity%20Over%20Time)
 
 </div>
 
 ---
 
-## Daily Motivation
-
-<div align="center">
-  
-  ![Dev Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&border=true&bg_color=0D1117&quote_color=58A6FF&author_color=FF6B6B&border_color=30363D)
-  
-</div>
+## Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ---
 
@@ -111,7 +87,7 @@
 
 <div align="center">
   
-  ![Top Contributed Repo](https://github-contributor-stats.vercel.app/api?username=Ramoniswack&limit=5&theme=tokyonight&combine_all_yearly_contributions=true&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&border_radius=10)
+  ![Top Contributed Repo](https://github-contributor-stats.vercel.app/api?username=Ramoniswack&limit=5&theme=dark&combine_all_yearly_contributions=true)
   
 </div>
 
@@ -119,7 +95,7 @@
 
 <div align="center">
   
-  ![Profile Views](https://visitcount.itsvg.in/api?id=Ramoniswack&label=Profile%20Views&color=58A6FF&icon=5&pretty=true)
+  ![Profile Views](https://komarev.com/ghpvc/?username=Ramoniswack&color=58A6FF&style=for-the-badge&label=Profile+Views)
   
   **Thanks for visiting my profile! Let's build something amazing together.**
   
