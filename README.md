@@ -48,15 +48,11 @@
 
 <div align="center">
   
-  ![GitHub Stats](https://github-readme-stats-eight-theta.vercel.app/api?username=Ramoniswack&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9&border_radius=10)
+  ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Ramoniswack&theme=dark&hide_border=false&include_all_commits=true&count_private=true)
   
-  ![Most Used Languages](https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Ramoniswack&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&border_radius=10&langs_count=8)
+  ![GitHub Streak](https://nirzak-streak-stats.vercel.app/?user=Ramoniswack&theme=dark&hide_border=false)
   
-</div>
-
-<div align="center">
-  
-  [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Ramoniswack&theme=dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&ring=58A6FF&fire=58A6FF&sideNums=58A6FF&currStreakLabel=58A6FF&sideLabels=58A6FF&currStreakNum=C9D1D9&dates=8B949E&background=0D1117&stroke=58A6FF)](https://git.io/streak-stats)
+  ![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Ramoniswack&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
   
 </div>
 
