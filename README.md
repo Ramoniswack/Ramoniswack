@@ -1,4 +1,4 @@
-# R.A. Mon | a developer
+# R.A. Mohan  | a developer
 
 <div align="center">
   
@@ -19,7 +19,7 @@
 
 ---
 
-## Technology Arsenal
+## Technologies
 
 <div align="center">
 
@@ -48,18 +48,27 @@
 
 <div align="center">
   
-  ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Ramoniswack&theme=dark&hide_border=false&include_all_commits=true&count_private=true)
+  <!-- Primary Stats -->
+  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=Ramoniswack&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9&border_radius=10"/>
   
-  ![GitHub Streak](https://nirzak-streak-stats.vercel.app/?user=Ramoniswack&theme=dark&hide_border=false)
+  <!-- Fallback: Alternative deployment -->
+  <!-- <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Ramoniswack&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9&border_radius=10&cache_seconds=86400"/> -->
   
-  ![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Ramoniswack&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+  <!-- Most Used Languages - Alternative deployment -->
+  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Ramoniswack&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&border_radius=10"/>
+  
+</div>
+
+<div align="center">
+  
+  ![GitHub Streak](https://streak-stats.demolab.com/?user=Ramoniswack&theme=tokyonight&hide_border=true&background=0D1117&stroke=58A6FF&ring=58A6FF&fire=FF6B6B&currStreakNum=C9D1D9&sideNums=C9D1D9&currStreakLabel=58A6FF&sideLabels=58A6FF&dates=8B949E&border_radius=10)
   
 </div>
 
 ---
 
 ## GitHub Trophies
-![Trophies](https://github-profile-trophy.vercel.app/?username=Ramoniswack&theme=radical&no-frame=false&no-bg=false&margin-w=4&row=2&column=4)
+![](https://github-profile-trophy.vercel.app/?username=Ramoniswack&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
 ---
 
@@ -75,7 +84,7 @@
 ---
 
 ## Random Dev Quote
-![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical&quote_category=inspirational)
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ---
 
@@ -83,7 +92,7 @@
 
 <div align="center">
   
-  ![Top Contributed Repo](https://github-contributor-stats.vercel.app/api?username=Ramoniswack&limit=4&theme=tokyonight&combine_all_yearly_contributions=true&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&border_radius=10)
+  ![Top Contributed Repo](https://github-contributor-stats.vercel.app/api?username=Ramoniswack&limit=5&theme=dark&combine_all_yearly_contributions=true)
   
 </div>
 
@@ -93,7 +102,7 @@
 
 <div align="center">
   
-  ![Snake animation](https://raw.githubusercontent.com/Ramoniswack/Ramoniswack/output/github-snake-dark.svg)
+  ![Snake animation](https://github.com/Ramoniswack/Ramoniswack/blob/output/github-snake-dark.svg)
   
 </div>
 
