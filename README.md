@@ -67,7 +67,7 @@
 
 <div align="center">
   
-  ![GitHub Streak](https://streak-stats.demolab.com/?user=Ramoniswack&theme=tokyonight&hide_border=true&background=0D1117&stroke=58A6FF&ring=58A6FF&fire=FF6B6B&currStreakNum=C9D1D9&sideNums=C9D1D9&currStreakLabel=58A6FF&sideLabels=58A6FF&dates=8B949E&border_radius=10)
+  ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Ramoniswack&theme=tokyonight&hide_border=true&background=0D1117&stroke=58A6FF&ring=58A6FF&fire=FF6B6B&currStreakNum=C9D1D9&sideNums=C9D1D9&currStreakLabel=58A6FF&sideLabels=58A6FF&dates=8B949E&border_radius=10)
   
 </div>
 
