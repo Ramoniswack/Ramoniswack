@@ -48,9 +48,9 @@
 
 <div align="center">
   
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Ramoniswack&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9&border_radius=10&cache_seconds=86400"/>
+  ![GitHub Stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Ramoniswack&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9&border_radius=10&disable_animations=false&custom_title=GitHub%20Statistics)
   
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ramoniswack&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&border_radius=10&cache_seconds=86400"/>
+  ![Most Used Languages](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Ramoniswack&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&border_radius=10&langs_count=8&exclude_repo=repo1,repo2)
   
 </div>
 
@@ -63,7 +63,7 @@
 ---
 
 ## GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=Ramoniswack&theme=radical&no-frame=false&no-bg=false&margin-w=4)
+![Trophies](https://github-profile-trophy.vercel.app/?username=Ramoniswack&theme=radical&no-frame=false&no-bg=false&margin-w=4&row=2&column=4)
 
 ---
 
@@ -79,7 +79,7 @@
 ---
 
 ## Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical&quote_category=inspirational)
 
 ---
 
@@ -87,7 +87,7 @@
 
 <div align="center">
   
-  ![Top Contributed Repo](https://github-contributor-stats.vercel.app/api?username=Ramoniswack&limit=5&theme=dark&combine_all_yearly_contributions=true)
+  ![Top Contributed Repo](https://github-contributor-stats.vercel.app/api?username=Ramoniswack&limit=4&theme=tokyonight&combine_all_yearly_contributions=true&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&border_radius=10)
   
 </div>
 
@@ -97,7 +97,7 @@
 
 <div align="center">
   
-  ![Snake animation](https://github.com/Ramoniswack/Ramoniswack/blob/output/github-snake-dark.svg)
+  ![Snake animation](https://raw.githubusercontent.com/Ramoniswack/Ramoniswack/output/github-snake-dark.svg)
   
 </div>
 
