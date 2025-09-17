@@ -48,11 +48,22 @@
 
 <div align="center">
   
-  ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Ramoniswack&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9&border_radius=10)
+  ![GitHub Stats](https://github-readme-stats-eight-theta.vercel.app/api?username=Ramoniswack&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9&border_radius=10)
   
-  ![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Ramoniswack&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&border_radius=10&langs_count=8)
+  ![Most Used Languages](https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Ramoniswack&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&border_radius=10&langs_count=8)
   
 </div>
+
+<!-- Alternative if above fails -->
+<!-- 
+<div align="center">
+  
+  ![GitHub Stats](https://github-readme-stats-tau-ivory.vercel.app/api?username=Ramoniswack&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9&border_radius=10)
+  
+  ![Most Used Languages](https://github-readme-stats-tau-ivory.vercel.app/api/top-langs/?username=Ramoniswack&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&border_radius=10&langs_count=8)
+  
+</div>
+-->
 
 <div align="center">
   
