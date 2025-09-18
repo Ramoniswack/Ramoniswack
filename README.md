@@ -1,8 +1,8 @@
-# R.A. Mohan | Developer
+# R.A. Mohan | a developer
 
 <div align="center">
   
-  ![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=28&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&height=70&lines=Developer;Problem+Solver;Code+Enthusiast;Building+Digital+Solutions)
+  ![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=28&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&height=70&lines=a+developer;a+songwriter/singer;problem+Solver;code+enthusiast;building+digital+solutions)
   
 </div>
 
@@ -124,12 +124,13 @@
   
   ![Profile Views](https://komarev.com/ghpvc/?username=Ramoniswack&color=58A6FF&style=for-the-badge&label=Profile+Views)
   
-  **Building robust digital solutions through clean code and innovative thinking**
+  **Fingers that can play with both code and guitar • always switching between guitar and keyboard- finding rhythm in both**
   
 </div>
 
 <br>
 
 <div align="center">
+  
   <sub>Engineered with precision • Maintained with dedication • Open for collaboration</sub>
 </div>
