@@ -124,7 +124,7 @@
   
   ![Profile Views](https://komarev.com/ghpvc/?username=Ramoniswack&color=58A6FF&style=for-the-badge&label=Profile+Views)
   
-  **Fingers that can play with both code and guitar • always switching between guitar and keyboard- finding rhythm in both**
+  **always switching my fingers between guitar and keyboard- finding rhythm in both**
   
 </div>
 
