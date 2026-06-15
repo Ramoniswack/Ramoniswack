@@ -2,10 +2,6 @@
 
 ![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=28&duration=3000&pause=1000&color=7AA2F7&center=true&vCenter=true&width=650&height=70&lines=full+stack+developer;i+write+code+%26+chord+progressions;turning+ideas+into+products;building+digital+solutions)
 
-</div>
-
-<div align="center">
-
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/r-a-mohan)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/r.a.mon_)
 [![Profile Views](https://komarev.com/ghpvc/?username=Ramoniswack&color=7AA2F7&style=for-the-badge&label=Profile+Views)](https://github.com/Ramoniswack)
@@ -16,19 +12,20 @@
 
 ## About Me
 
-```ts
-const ramohan = {
-  role        : "Full Stack Developer",
-  focus       : ["React / Next.js", "Django", "Laravel"],
-  currently   : "Building scalable web applications",
-  openTo      : ["Freelance Projects", "Full-time Roles", "Collaboration"],
-  otherSide   : "Singer / Songwriter — finding rhythm in both strings and syntax",
-};
-```
+> Full stack developer who builds clean, scalable web apps by day —
+> and writes chord progressions by night.
+> I care about the details: in code, in design, and in sound.
+
+- 🔭 Currently building scalable web applications
+- 🌱 Deep in **React / Next.js**, **Django**, and **Laravel**
+- 🤝 Open to freelance projects, full-time roles, and collaboration
+- 🎸 When I'm not coding, I'm writing music — same problem-solving brain, different output
 
 ---
 
 ## Tech Stack
+
+<div align="center">
 
 ### Frontend
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
@@ -55,20 +52,22 @@ const ramohan = {
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 ![WordPress](https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white)
 
+</div>
+
 ---
 
 ## GitHub Analytics
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=Ramoniswack&show_icons=true&theme=tokyo-night&include_all_commits=true&count_private=true&hide_border=true&border_radius=10"/>
-<img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Ramoniswack&layout=compact&theme=tokyo-night&hide_border=true&border_radius=10&langs_count=8"/>
+<img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=Ramoniswack&show_icons=true&theme=tokyo-night&include_all_commits=true&count_private=true&hide_border=true&border_radius=10&bg_color=1a1b27"/>
+<img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Ramoniswack&layout=compact&theme=tokyo-night&hide_border=true&border_radius=10&langs_count=8&bg_color=1a1b27"/>
 
 </div>
 
 <div align="center">
 
-![GitHub Streak](https://github-readme-streak-stats-salesp07.vercel.app/?user=Ramoniswack&theme=tokyo-night&hide_border=true&border_radius=10)
+![GitHub Streak](https://streak-stats.demolab.com?user=Ramoniswack&theme=tokyo-night&hide_border=true&border_radius=10&background=1a1b27)
 
 </div>
 
@@ -88,9 +87,7 @@ const ramohan = {
 
 <div align="center">
 
-> ⚡ Trophy data refreshes periodically — if it shows an error, it'll be back shortly.
-
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=Ramoniswack&theme=tokyonight&no-frame=true&no-bg=false&margin-w=6&column=4&rank=SSS,SS,S,AAA,AA,A,B)
+![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=Ramoniswack&theme=tokyonight&no-frame=true&margin-w=6&column=4)
 
 </div>
 
@@ -108,7 +105,7 @@ const ramohan = {
 
 <div align="center">
 
-*Always switching between guitar and keyboard — finding rhythm in both*
+*always switching between guitar and keyboard — finding rhythm in both*
 
 <sub>Engineered with precision · Maintained with dedication · Open for collaboration</sub>
 
