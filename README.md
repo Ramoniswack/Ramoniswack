@@ -12,14 +12,30 @@
 
 ## About Me
 
-> Full stack developer who builds clean, scalable web apps by day —
-> and writes chord progressions by night.
-> I care about the details: in code, in design, and in sound.
-
-- 🔭 Currently building scalable web applications
-- 🌱 Deep in **React / Next.js**, **Django**, and **Laravel**
-- 🤝 Open to freelance projects, full-time roles, and collaboration
-- 🎸 When I'm not coding, I'm writing music — same problem-solving brain, different output
+```json
+{
+  "name"        : "R.a.mohan",
+  "location"    : "🌏 Nepal",
+  "role"        : "Full Stack Developer",
+  "code"        : ["TypeScript", "JavaScript", "Python", "Java"],
+  "technologies": {
+    "frontend"  : {
+      "frameworks": ["Next.js", "React"],
+      "styling"   : ["Tailwind CSS", "shadcn/ui", "Material UI"]
+    },
+    "backend"   : {
+      "frameworks": ["Django", "Laravel"],
+      "databases" : ["PostgreSQL", "MongoDB", "MySQL"]
+    },
+    "desktop"   : ["Electron"],
+    "state"     : ["Zustand", "Zod"],
+    "tools"     : ["Postman", "WordPress", "Git"]
+  },
+  "currentFocus": "Building scalable web applications 🚀",
+  "openTo"      : ["Freelance Projects", "Full-time Roles", "Collaboration"],
+  "funFact"     : "I write code by day and chord progressions by night 🎸"
+}
+```
 
 ---
 
@@ -38,6 +54,9 @@
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
 ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
+
+### Desktop
+![Electron](https://img.shields.io/badge/Electron-2B2E3A?style=for-the-badge&logo=electron&logoColor=9FEAF9)
 
 ### Databases
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
@@ -60,14 +79,14 @@
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=Ramoniswack&show_icons=true&theme=tokyo-night&include_all_commits=true&count_private=true&hide_border=true&border_radius=10&bg_color=1a1b27"/>
-<img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Ramoniswack&layout=compact&theme=tokyo-night&hide_border=true&border_radius=10&langs_count=8&bg_color=1a1b27"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Ramoniswack&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&border_radius=10"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ramoniswack&layout=compact&theme=tokyonight&hide_border=true&border_radius=10&langs_count=8"/>
 
 </div>
 
 <div align="center">
 
-![GitHub Streak](https://streak-stats.demolab.com?user=Ramoniswack&theme=tokyo-night&hide_border=true&border_radius=10&background=1a1b27)
+![GitHub Streak](https://streak-stats.demolab.com?user=Ramoniswack&theme=tokyonight&hide_border=true&border_radius=10)
 
 </div>
 
