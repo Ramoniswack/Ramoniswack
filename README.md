@@ -1,3 +1,6 @@
+# R.a.mohan | a fullstack developer
+### Architecting Products. Solving Chaos. Shipping Fast.
+
 <div align="center">
 
 ![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=28&duration=3000&pause=1000&color=7AA2F7&center=true&vCenter=true&width=650&height=70&lines=full+stack+developer;i+write+code+%26+chord+progressions;turning+ideas+into+products;building+digital+solutions)
