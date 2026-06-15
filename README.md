@@ -1,147 +1,115 @@
-# R.a.mohan | a developer
-
 <div align="center">
-  
-  ![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=28&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&height=70&lines=a+developer;a+singer/songwriter;problem+solver;code+enthusiast;building+digital+solutions)
-  
+
+![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=28&duration=3000&pause=1000&color=7AA2F7&center=true&vCenter=true&width=650&height=70&lines=full+stack+developer;i+write+code+%26+chord+progressions;turning+ideas+into+products;building+digital+solutions)
+
 </div>
 
-<br>
-
-## Professional Network
-
 <div align="center">
-  
-  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0077B5)](https://linkedin.com/in/r-a-mohan)
-  [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=Instagram&logoColor=white&labelColor=E4405F)](https://instagram.com/r.a.mon_)
-  
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/r-a-mohan)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/r.a.mon_)
+[![Profile Views](https://komarev.com/ghpvc/?username=Ramoniswack&color=7AA2F7&style=for-the-badge&label=Profile+Views)](https://github.com/Ramoniswack)
+
 </div>
 
-<br>
+---
 
-## Technical Stack
+## About Me
 
-<div align="center">
+```ts
+const ramohan = {
+  role        : "Full Stack Developer",
+  focus       : ["React / Next.js", "Django", "Laravel"],
+  currently   : "Building scalable web applications",
+  openTo      : ["Freelance Projects", "Full-time Roles", "Collaboration"],
+  otherSide   : "Singer / Songwriter — finding rhythm in both strings and syntax",
+};
+```
 
-### Frontend Development
+---
+
+## Tech Stack
+
+### Frontend
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-0F172A?style=for-the-badge&logo=tailwind-css&logoColor=38BDF8)
+![shadcn/ui](https://img.shields.io/badge/shadcn%2Fui-000000?style=for-the-badge&logo=shadcnui&logoColor=white)
 ![Material UI](https://img.shields.io/badge/Material_UI-0081CB?style=for-the-badge&logo=mui&logoColor=white)
-![shadcn/ui](https://img.shields.io/badge/shadcn/ui-000000?style=for-the-badge&logo=shadcnui&logoColor=white)
 
-### Backend Development
+### Backend
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
 ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
 
-### State Management & Validation
+### Databases
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
+
+### State & Validation
 ![Zustand](https://img.shields.io/badge/Zustand-FF6B35?style=for-the-badge&logo=react&logoColor=white)
 ![Zod](https://img.shields.io/badge/Zod-3E67B1?style=for-the-badge&logo=zod&logoColor=white)
 
-### Database Systems
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-
-### Tools & CMS
+### Tools
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![Thunder Client](https://img.shields.io/badge/Thunder_Client-000000?style=for-the-badge&logo=thunderclient&logoColor=white)
 ![WordPress](https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white)
 
+---
 
-
-
-</div>
-
-<br>
-
-## Development Analytics
-
-<div align="center">
-  
-  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=Ramoniswack&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9&border_radius=10"/>
-  
-  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Ramoniswack&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&border_radius=10"/>
-  
-</div>
-
-<br>
-
-## Contribution Metrics
-
-<div align="center">
-  
-  ![GitHub Streak](https://github-readme-streak-stats-salesp07.vercel.app/?user=Ramoniswack&theme=tokyonight&hide_border=true&background=0D1117&stroke=58A6FF&ring=58A6FF&fire=FF6B6B&currStreakNum=C9D1D9&sideNums=C9D1D9&currStreakLabel=58A6FF&sideLabels=58A6FF&dates=8B949E&border_radius=10)
-  
-</div>
-
-<br>
-
-## Achievement Gallery
-
-<div align="center">
-  
-  ![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=Ramoniswack&theme=radical&no-frame=false&no-bg=false&margin-w=4)
-  
-</div>
-
-<br>
-
-## Development Activity Graph
+## GitHub Analytics
 
 <div align="center">
 
-  ![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Ramoniswack&theme=tokyo-night&bg_color=0D1117&color=58A6FF&line=58A6FF&point=FF6B6B&area=true&hide_border=true&radius=10&custom_title=Development+Activity+Timeline)
+<img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=Ramoniswack&show_icons=true&theme=tokyo-night&include_all_commits=true&count_private=true&hide_border=true&border_radius=10"/>
+<img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Ramoniswack&layout=compact&theme=tokyo-night&hide_border=true&border_radius=10&langs_count=8"/>
 
 </div>
 
-<br>
-
-## Project Contributions
-
 <div align="center">
-  
-  ![Top Contributed Repo](https://github-contributor-stats.vercel.app/api?username=Ramoniswack&limit=5&theme=dark&combine_all_yearly_contributions=true)
-  
+
+![GitHub Streak](https://github-readme-streak-stats-salesp07.vercel.app/?user=Ramoniswack&theme=tokyo-night&hide_border=true&border_radius=10)
+
 </div>
 
-<br>
+---
 
-## Code Visualization
+## Activity Graph
 
 <div align="center">
-  
-  ![Snake animation](https://github.com/Ramoniswack/Ramoniswack/blob/output/github-snake-dark.svg)
-  
+
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Ramoniswack&theme=tokyo-night&bg_color=1a1b27&color=7AA2F7&line=7AA2F7&point=BB9AF7&area=true&hide_border=true&radius=10&custom_title=Contribution+Timeline)
+
 </div>
 
-<br>
+---
 
-## Daily Development Quote
+## Achievements
 
 <div align="center">
-  
-  ![Developer Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-  
+
+> ⚡ Trophy data refreshes periodically — if it shows an error, it'll be back shortly.
+
+![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=Ramoniswack&theme=tokyonight&no-frame=true&no-bg=false&margin-w=6&column=4&rank=SSS,SS,S,AAA,AA,A,B)
+
 </div>
 
-<br>
+---
 
-## Profile Analytics
+## Snake
 
 <div align="center">
-  
-  ![Profile Views](https://komarev.com/ghpvc/?username=Ramoniswack&color=58A6FF&style=for-the-badge&label=Profile+Views)
-  
-  **always switching my fingers between guitar and keyboard- finding rhythm in both**
-  
+
+![Snake animation](https://github.com/Ramoniswack/Ramoniswack/blob/output/github-snake-dark.svg)
+
 </div>
 
-<br>
+---
 
 <div align="center">
-  
-  <sub>Engineered with precision • Maintained with dedication • Open for collaboration</sub>
+
+*Always switching between guitar and keyboard — finding rhythm in both*
+
+<sub>Engineered with precision · Maintained with dedication · Open for collaboration</sub>
+
 </div>
