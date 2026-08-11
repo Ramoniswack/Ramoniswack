@@ -109,7 +109,7 @@
 
 <div align="center">
 
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=Ramoniswack&theme=tokyonight&no-frame=true&margin-w=6&column=4)
+![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=Ramoniswack&theme=tokyonight&no-frame=true&margin-w=6&column=4&t=1)
 
 </div>
 
