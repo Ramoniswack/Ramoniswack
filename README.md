@@ -3,7 +3,7 @@
 
 <div align="center">
 
-![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=28&duration=3000&pause=1000&color=7AA2F7&center=true&vCenter=true&width=650&height=70&lines=full-stack+%26+AI+developer;i+build+products+that+ship;LLMs+%7C+MCP+%7C+SaaS;code+%26+chord+progressions)
+![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=28&duration=3000&pause=1000&color=7AA2F7&center=true&vCenter=true&width=650&height=70&lines=full-stack+%26+AI+developer;building+digital+products;LLMs+%7C+MCP+%7C+SaaS;code+%26+chord+progressions)
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/r-a-mohan)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/r.a.mon_)
@@ -39,7 +39,7 @@
 - Full-Stack & AI Developer at **Sarbatra Inc.**
 - Co-Founder & CTO at **Everacy Tech**
 - Building and scaling production SaaS applications
-- Working with LLM integrations, MCP and AI-powered systems
+- Working with **LLM integrations, MCP and AI-powered systems**
 - Designing APIs, background processing and production infrastructure
 
 ---
@@ -129,32 +129,10 @@
 
 <div align="center">
 
-<table>
-<tr>
-
-<td align="center" width="250">
-<h3>50+</h3>
-<b>Client Projects</b>
-<br/><br/>
-End-to-end projects delivered from development to production.
-</td>
-
-<td align="center" width="250">
-<h3>100+</h3>
-<b>Restaurants</b>
-<br/><br/>
-Using Yummyever for restaurant operations.
-</td>
-
-<td align="center" width="250">
-<h3>5+</h3>
-<b>SaaS Platforms</b>
-<br/><br/>
-Built and shipped across multiple industries.
-</td>
-
-</tr>
-</table>
+![Projects](https://img.shields.io/badge/50%2B-Projects_Shipped-7AA2F7?style=for-the-badge)
+![Restaurants](https://img.shields.io/badge/100%2B-Restaurant_Clients-BB9AF7?style=for-the-badge)
+![SaaS](https://img.shields.io/badge/5%2B-SaaS_Products-7DCFFF?style=for-the-badge)
+![CTO](https://img.shields.io/badge/Co--Founder-CTO-9ECE6A?style=for-the-badge)
 
 </div>
 
@@ -164,60 +142,78 @@ Built and shipped across multiple industries.
 
 <div align="center">
 
-<img height="180em" src="https://github-stats-extended.vercel.app/api?username=Ramoniswack&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&border_radius=10"/>
-&nbsp;
-<img height="180em" src="https://github-stats-extended.vercel.app/api/top-langs/?username=Ramoniswack&layout=compact&theme=tokyonight&hide_border=true&border_radius=10&langs_count=8"/>
+<img
+  src="https://github-stats-extended.vercel.app/api?username=Ramoniswack&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&border_radius=10"
+  height="180"
+  alt="GitHub Stats"
+/>
+
+<img
+  src="https://github-stats-extended.vercel.app/api/top-langs/?username=Ramoniswack&layout=compact&theme=tokyonight&hide_border=true&border_radius=10&langs_count=8"
+  height="180"
+  alt="Top Languages"
+/>
 
 <br/>
 
-![GitHub Streak](https://github-readme-streak-stats-salesp07.vercel.app/?user=Ramoniswack&theme=tokyonight&hide_border=true&border_radius=10)
+<img
+  src="https://github-readme-streak-stats-salesp07.vercel.app/?user=Ramoniswack&theme=tokyonight&hide_border=true&border_radius=10"
+  alt="GitHub Streak"
+/>
 
 </div>
 
 ---
 
-## Activity Graph
-
-[![R.a.mohan's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Ramoniswack&theme=tokyo-night&hide_border=true&area=true)](https://github.com/Ramoniswack)
-
----
-
-## Achievements
+## Contribution Activity
 
 <div align="center">
 
-<table>
-<tr>
-
-<td align="center" width="250">
-<h3>Production</h3>
-<b>50+ Projects Shipped</b>
-<br/><br/>
-From development through deployment.
-</td>
-
-<td align="center" width="250">
-<h3>Scale</h3>
-<b>100+ Restaurant Clients</b>
-<br/><br/>
-Production software used in real operations.
-</td>
-
-<td align="center" width="250">
-<h3>Leadership</h3>
-<b>Co-Founder & CTO</b>
-<br/><br/>
-Architecture, infrastructure and product engineering.
-</td>
-
-</tr>
-</table>
+<img
+  src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Ramoniswack&theme=tokyonight"
+  width="100%"
+  alt="R.a.mohan's GitHub Contribution Activity"
+/>
 
 </div>
 
 ---
 
-## Snake
+## GitHub Insights
+
+<div align="center">
+
+<img
+  src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Ramoniswack&theme=tokyonight"
+  height="180"
+  alt="Repositories Per Language"
+/>
+
+<img
+  src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Ramoniswack&theme=tokyonight"
+  height="180"
+  alt="Most Commit Language"
+/>
+
+<br/>
+
+<img
+  src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Ramoniswack&theme=tokyonight"
+  height="180"
+  alt="GitHub Stats Summary"
+/>
+
+<img
+  src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Ramoniswack&theme=tokyonight&utcOffset=5.75"
+  height="180"
+  alt="Productive Time"
+/>
+
+</div>
+
+---
+
+## Contribution Snake
 
 <div align="center">
 
@@ -229,6 +225,8 @@ Architecture, infrastructure and product engineering.
 
 <div align="center">
 
+### Let's Build Something.
+
 *always switching between guitar and keyboard — finding rhythm in both*
 
 <sub>Architecting products · Shipping production systems · Open for collaboration</sub>
@@ -236,5 +234,10 @@ Architecture, infrastructure and product engineering.
 <br/><br/>
 
 [![Portfolio](https://img.shields.io/badge/ramohan.com.np-7AA2F7?style=for-the-badge&logo=googlechrome&logoColor=white)](https://ramohan.com.np)
+[![LinkedIn](https://img.shields.io/badge/Let's_Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/r-a-mohan)
+
+<br/><br/>
+
+<sub>Built with code, caffeine and questionable amounts of Git commits.</sub>
 
 </div>
