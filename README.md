@@ -32,14 +32,79 @@
   "name": "R.a.mohan",
   "location": "Nepal",
   "role": "Full-Stack & AI Developer | Co-Founder & CTO",
-  "languages": ["TypeScript", "JavaScript", "Python", "PHP", "Java"],
-  "frontend": ["Next.js", "React", "Flutter", "Tailwind CSS", "shadcn/ui", "Material UI"],
-  "backend": ["Node.js", "Express.js", "FastAPI", "Django", "Laravel"],
-  "data": ["MongoDB", "PostgreSQL", "MySQL", "Redis", "S3-Compatible Object Storage"],
-  "ai": ["OpenAI API", "Anthropic API", "LLM Integration", "MCP", "AEO / SEO"],
-  "devops": ["Docker", "GitHub Actions", "Linux", "Nginx", "Azure", "CI/CD"],
-  "currentFocus": ["Production SaaS", "AI Applications", "Scalable Infrastructure"],
-  "openTo": ["Full-Time Roles", "Freelance Projects", "Collaboration"],
+
+  "code": [
+    "TypeScript",
+    "JavaScript",
+    "Python",
+    "PHP",
+    "Java"
+  ],
+
+  "technologies": {
+
+    "frontend": {
+      "frameworks": [
+        "Next.js",
+        "React",
+        "Flutter"
+      ],
+      "styling": [
+        "Tailwind CSS",
+        "shadcn/ui",
+        "Material UI"
+      ]
+    },
+
+    "backend": {
+      "python": [
+        "FastAPI",
+        "Django",
+        "Celery"
+      ],
+      "javascript": [
+        "Node.js",
+        "Express.js",
+        "BullMQ"
+      ],
+      "php": [
+        "Laravel"
+      ]
+    },
+
+    "databases": [
+      "PostgreSQL",
+      "MongoDB",
+      "MySQL",
+      "Redis"
+    ],
+
+    "ai": [
+      "OpenAI API",
+      "Anthropic API",
+      "LLM Integration",
+      "Model Context Protocol (MCP)",
+      "AEO / SEO"
+    ],
+
+    "infrastructure": [
+      "Docker",
+      "Linux",
+      "Nginx",
+      "GitHub Actions",
+      "Microsoft Azure",
+      "S3-Compatible Object Storage"
+    ]
+  },
+
+  "currentFocus": "Building scalable SaaS and AI-powered applications",
+
+  "openTo": [
+    "Full-Time Roles",
+    "Freelance Projects",
+    "Collaboration"
+  ],
+
   "funFact": "I write code by day and chord progressions by night."
 }
 ```
@@ -72,17 +137,18 @@
 
 ### Backend & APIs
 
-<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js"/>
-<img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express.js"/>
 <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" alt="FastAPI"/>
 <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" alt="Django"/>
+<img src="https://img.shields.io/badge/Celery-37814A?style=for-the-badge" alt="Celery"/>
+<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js"/>
+<img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express.js"/>
 <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" alt="Laravel"/>
 
 ### Languages
 
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
 <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript"/>
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
 <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP"/>
 <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java"/>
 
@@ -96,8 +162,8 @@
 
 ### Databases & Storage
 
-<img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB"/>
 <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL"/>
+<img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB"/>
 <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"/>
 <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" alt="Redis"/>
 <img src="https://img.shields.io/badge/S3_Compatible-569A31?style=for-the-badge&logo=amazons3&logoColor=white" alt="S3 Compatible Storage"/>
@@ -113,7 +179,6 @@
 ### Architecture & Tools
 
 <img src="https://img.shields.io/badge/BullMQ-DC382D?style=for-the-badge" alt="BullMQ"/>
-<img src="https://img.shields.io/badge/Celery-37814A?style=for-the-badge" alt="Celery"/>
 <img src="https://img.shields.io/badge/Zod-3E67B1?style=for-the-badge&logo=zod&logoColor=white" alt="Zod"/>
 <img src="https://img.shields.io/badge/OAuth_2.0-EB5424?style=for-the-badge" alt="OAuth 2.0"/>
 <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Postman"/>
@@ -144,6 +209,7 @@
 
 <table>
 <tr>
+
 <td align="center" width="250">
 <h3>50+</h3>
 <b>Client Projects</b>
@@ -159,11 +225,12 @@ Using Yummyever for restaurant operations.
 </td>
 
 <td align="center" width="250">
-<h3>3+</h3>
+<h3>5+</h3>
 <b>SaaS Platforms</b>
 <br/><br/>
 Built and shipped across multiple industries.
 </td>
+
 </tr>
 </table>
 
@@ -187,15 +254,23 @@ Built and shipped across multiple industries.
 
 ---
 
-## Beyond the Code
+## Activity Graph
 
-```text
-Developer  → turning ideas into production systems
-CTO        → architecture, infrastructure & product engineering
-AI         → LLM integrations, MCP & intelligent workflows
-DevOps     → taking applications from localhost to production
-Music      → guitar, chords & a completely different kind of debugging
-```
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Ramoniswack&theme=tokyo-night&bg_color=1a1b27&color=7AA2F7&line=7AA2F7&point=BB9AF7&area=true&hide_border=true&radius=10&custom_title=Contribution%20Timeline" width="100%" alt="Contribution Timeline"/>
+
+</div>
+
+---
+
+## Achievements
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=Ramoniswack&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&margin-h=8&column=4" alt="GitHub Trophies"/>
+
+</div>
 
 ---
 
