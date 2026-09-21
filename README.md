@@ -183,34 +183,51 @@
 
 <div align="center">
 
+<table>
+<tr>
+<td width="50%" align="center">
+
 <img
   src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Ramoniswack&theme=tokyonight"
-  height="180"
-  alt="Repositories Per Language"
+  width="100%"
+  alt="Top Languages by Repository"
 />
+
+</td>
+<td width="50%" align="center">
 
 <img
   src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Ramoniswack&theme=tokyonight"
-  height="180"
-  alt="Most Commit Language"
+  width="100%"
+  alt="Top Languages by Commit"
 />
 
-<br/>
+</td>
+</tr>
+
+<tr>
+<td width="50%" align="center">
 
 <img
   src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Ramoniswack&theme=tokyonight"
-  height="180"
-  alt="GitHub Stats Summary"
+  width="100%"
+  alt="GitHub Stats"
 />
+
+</td>
+<td width="50%" align="center">
 
 <img
   src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Ramoniswack&theme=tokyonight&utcOffset=5.75"
-  height="180"
+  width="100%"
   alt="Productive Time"
 />
 
-</div>
+</td>
+</tr>
+</table>
 
+</div>
 ---
 
 ## Contribution Snake
