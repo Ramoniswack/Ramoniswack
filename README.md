@@ -145,25 +145,29 @@
 
 <table>
 <tr>
-<td width="50%" align="center">
+
+<td align="center" width="50%">
 
 <img
   src="https://github-stats-extended.vercel.app/api?username=Ramoniswack&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&border_radius=10"
-  width="100%"
+  width="480"
+  height="220"
   alt="R.a.mohan's GitHub Stats"
 />
 
 </td>
 
-<td width="50%" align="center">
+<td align="center" width="50%">
 
 <img
   src="https://github-stats-extended.vercel.app/api/top-langs/?username=Ramoniswack&layout=compact&theme=tokyonight&hide_border=true&border_radius=10&langs_count=8"
-  width="100%"
+  width="480"
+  height="220"
   alt="Most Used Languages"
 />
 
 </td>
+
 </tr>
 </table>
 
