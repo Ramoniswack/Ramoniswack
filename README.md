@@ -143,22 +143,35 @@
 
 <div align="center">
 
+<table>
+<tr>
+<td width="50%" align="center">
+
 <img
   src="https://github-stats-extended.vercel.app/api?username=Ramoniswack&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&border_radius=10"
-  height="180"
+  width="100%"
   alt="R.a.mohan's GitHub Stats"
 />
 
+</td>
+
+<td width="50%" align="center">
+
 <img
   src="https://github-stats-extended.vercel.app/api/top-langs/?username=Ramoniswack&layout=compact&theme=tokyonight&hide_border=true&border_radius=10&langs_count=8"
-  height="180"
-  alt="Top Languages"
+  width="100%"
+  alt="Most Used Languages"
 />
+
+</td>
+</tr>
+</table>
 
 <br/>
 
 <img
   src="https://github-readme-streak-stats-salesp07.vercel.app/?user=Ramoniswack&theme=tokyonight&hide_border=true&border_radius=10"
+  width="70%"
   alt="GitHub Streak"
 />
 
