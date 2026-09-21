@@ -1,4 +1,5 @@
 # R.a.mohan | Full-Stack & AI Developer
+
 ### Architecting Products. Solving Chaos. Shipping Fast.
 
 <div align="center">
@@ -38,9 +39,9 @@
 
 - Full-Stack & AI Developer at **Sarbatra Inc.**
 - Co-Founder & CTO at **Everacy Tech**
-- Building and scaling production SaaS applications
+- Building and scaling production **SaaS applications**
 - Working with **LLM integrations, MCP and AI-powered systems**
-- Designing APIs, background processing and production infrastructure
+- Designing **APIs, background processing and production infrastructure**
 
 ---
 
@@ -138,14 +139,14 @@
 
 ---
 
-## GitHub Analytics
+# GitHub Activity
 
 <div align="center">
 
 <img
   src="https://github-stats-extended.vercel.app/api?username=Ramoniswack&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&border_radius=10"
   height="180"
-  alt="GitHub Stats"
+  alt="R.a.mohan's GitHub Stats"
 />
 
 <img
@@ -163,9 +164,63 @@
 
 </div>
 
----
+### Insights
 
-## Contribution Activity
+<div align="center">
+
+<table>
+<tr>
+
+<td width="50%" align="center">
+
+<img
+  src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Ramoniswack&theme=tokyonight"
+  width="100%"
+  alt="Top Languages by Repository"
+/>
+
+</td>
+
+<td width="50%" align="center">
+
+<img
+  src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Ramoniswack&theme=tokyonight"
+  width="100%"
+  alt="Top Languages by Commit"
+/>
+
+</td>
+
+</tr>
+
+<tr>
+
+<td width="50%" align="center">
+
+<img
+  src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Ramoniswack&theme=tokyonight"
+  width="100%"
+  alt="GitHub Statistics"
+/>
+
+</td>
+
+<td width="50%" align="center">
+
+<img
+  src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Ramoniswack&theme=tokyonight&utcOffset=5.75"
+  width="100%"
+  alt="Productive Time"
+/>
+
+</td>
+
+</tr>
+</table>
+
+</div>
+
+### Contribution Activity
 
 <div align="center">
 
@@ -177,57 +232,6 @@
 
 </div>
 
----
-
-## GitHub Insights
-
-<div align="center">
-
-<table>
-<tr>
-<td width="50%" align="center">
-
-<img
-  src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Ramoniswack&theme=tokyonight"
-  width="100%"
-  alt="Top Languages by Repository"
-/>
-
-</td>
-<td width="50%" align="center">
-
-<img
-  src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Ramoniswack&theme=tokyonight"
-  width="100%"
-  alt="Top Languages by Commit"
-/>
-
-</td>
-</tr>
-
-<tr>
-<td width="50%" align="center">
-
-<img
-  src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Ramoniswack&theme=tokyonight"
-  width="100%"
-  alt="GitHub Stats"
-/>
-
-</td>
-<td width="50%" align="center">
-
-<img
-  src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Ramoniswack&theme=tokyonight&utcOffset=5.75"
-  width="100%"
-  alt="Productive Time"
-/>
-
-</td>
-</tr>
-</table>
-
-</div>
 ---
 
 ## Contribution Snake
